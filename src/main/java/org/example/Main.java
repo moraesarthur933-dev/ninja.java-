@@ -25,3 +25,4 @@ public class Main{
             sasuke.sharinganAtivado();
         }
     }
+
